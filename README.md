@@ -13,6 +13,7 @@ To run, do as Prof. Brailsford did in the video (my main.c has a little correcti
 (the "|less" send the output to a program called "less", which lets you scroll through the output. Running as plain ./a.out is fine too.)
 
 Example output
+
     The TM has halted
 
     Final tape config is:
