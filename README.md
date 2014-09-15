@@ -10,4 +10,4 @@ To run, do as Prof. Brailsford did in the video (my main.c has a little correcti
     gcc main.c
     ./a.out|less
     
-(the "|less" send the output to a progmram called "less", which lets you scroll through the output. Running as plain ./a.out is fine too.)
+(the "|less" send the output to a program called "less", which lets you scroll through the output. Running as plain ./a.out is fine too.)
