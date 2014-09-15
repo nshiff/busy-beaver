@@ -5,9 +5,11 @@ busy-beaver
 
 Started with code from Professor Brailsford in <a href="https://www.youtube.com/watch?v=CE8UhcyJS0I">Busy Beaver Turing Machines - Computerphile</a>. Original code can be found at http://www.eprg.org/computerphile/busyb.htm or as busy-beaver.c in this repository.
 
-To run, do as Prof. Brailsford did in the video (my main.c has a little correction so score prints correctly)
+To run, do as Prof. Brailsford did in the video (my main.c has a little correction so score prints correctly). (Windows instructions coming soon! If you can find gcc for Windows you are all set, or use Eclipse.)
 
     gcc main.c
     ./a.out|less
-    
+
 (the "|less" send the output to a program called "less", which lets you scroll through the output. Running as plain ./a.out is fine too.)
+
+(re: LICENSE - following GitHub's http://choosealicense.com/ I selected MIT license, meaning credit back to Computerphile and I, otherwise do what you want)
